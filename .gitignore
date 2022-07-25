@@ -2,9 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+time-series-basics-exploring-traditional-ts.ipynb
 *.zip
-
+.Rhistory
 /Data
 
 # C extensions
